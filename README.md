@@ -3,7 +3,7 @@
   <img width=100% src="https://yourimagelink.com/logo.png"></p>
 
 <p align="center">
-  <a href="https://universityimpact.org/hackathon"> 🚀 Join the Hackathon </a>
+  <a href="[https://github.com/users/siko-ki/projects/1]"> 🚀 Join the Hackathon </a>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ We've identified several key areas where technology can make a significant impac
 3. **Donor Engagement and Transparency:** Build platforms to show donors the direct impact of their contributions.
 4. **Support for Public Charities:** Enhance awareness and support for charities making a significant social impact.
 
-For each challenge, we provide a detailed brief, including the problem statement, resources, and potential ideas for solutions on our [challenges page](https://universityimpact.org/hackathon/challenges).
+For each challenge, we provide a detailed brief, including the problem statement, resources, and potential ideas for solutions on our [challenges page](https://github.com/users/siko-ki/projects/1).
 <br></br>
 
 ## ❓FAQ
