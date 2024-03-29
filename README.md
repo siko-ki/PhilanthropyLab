@@ -31,9 +31,9 @@
 The University Impact Hackathon is a virtual event designed to foster innovation and collaboration. Participants will work in teams to develop solutions that address real-world challenges in the nonprofit sector, such as improving public transportation, enhancing charity evaluation methods, and increasing fundraising effectiveness.
 
 ### Important Dates
-- **Hackathon Start:** January 15th, 2024
-- **Submission Deadline:** March 15th, 2024 at 23:59 AoE (Anywhere on Earth).
-- **Judging and Prizes:** March 20th, 2024.
+- **Season 1 Hackathon Start:** April 1st, 2024
+- **Season 1 Submission Deadline:** April 24th, 2024 at 23:59 AoE (Anywhere on Earth).
+- **Judging and Prizes:** April 26th, 2024.
 
 ### Join the Hackathon
 To participate, [register your team here](https://universityimpact.org/hackathon/register). Find more details about the challenges and resources on our [hackathon page](https://universityimpact.org/hackathon).
@@ -70,7 +70,7 @@ You can participate individually or in a team. We encourage team participation f
 <details>
 <summary>What resources will be provided?</summary>
 <br>
-We provide access to datasets, APIs, and mentorship from industry experts to support your project development.
+We provide access to local LLMs, APIs, and mentorship from industry experts to support your project development.
 </details>
 <br/>
 
@@ -83,10 +83,8 @@ Submissions will be judged based on innovation, impact potential, technical impl
 
 ## 🏆 Leaderboard
 
-Winners will be announced after the judging period. Stay tuned for updates on our [leaderboard page](https://universityimpact.org/hackathon/leaderboard).
+Winners will be announced after the judging period.
 <br>
 
 ## ✅ Support
-- Email for private questions: hackathon@universityimpact.org
-- Official discord channel for live discussions: [discord.universityimpact.org](https://discord.universityimpact.org).
-- University Impact forum for technical questions: [community.universityimpact.org](https://community.universityimpact.org).
+- Email for private questions: jacoblundskog@uicharitable.org
