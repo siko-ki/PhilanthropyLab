@@ -87,7 +87,7 @@ Submissions will be judged based on innovation, impact potential, technical impl
 
 ## 🏆 Leaderboard
 
-Winners will be announced after the judging period. Winners from each season will be posted under [(projects- past winners](https://github.com/users/siko-ki/projects/1). After each season, bounties will be updated and additional prizes will be up for grabs. If no project succeeds under a particular bounty, the challenge will carry over to the next season.  
+Winners will be announced after the judging period. Winners from each season will be posted under [projects- past winners](https://github.com/users/siko-ki/projects/1). After each season, bounties will be updated and additional prizes will be up for grabs. If no project succeeds under a particular bounty, the challenge will carry over to the next season.  
 
 <br>
 
