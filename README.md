@@ -15,7 +15,7 @@
 
 ## 🎉 Welcome to the University Impact Hackathon! 
 
-[University Impact](https://universityimpact.org) is dedicated to enhancing philanthropy and impact investing. We're launching this hackathon to bring together bright minds to solve pressing social and environmental problems through technology and innovation.
+[University Impact](https://universityimpact.org) is dedicated to enhancing philanthropy and impact investing. At UI, one of our main missions is to make charitable giving easier. We aim to empower donors and nonprofit organizations alike to increase social good.  We're launching this hackathon to bring together bright minds to solve pressing social and environmental problems through technology and innovation.
 <br></br>
 
 ## 📃 Table of content
@@ -31,9 +31,9 @@
 The University Impact Hackathon is a virtual event designed to foster innovation and collaboration. Participants will work in teams to develop solutions that address real-world challenges in the nonprofit sector, such as improving public transportation, enhancing charity evaluation methods, and increasing fundraising effectiveness.
 
 ### Important Dates
-- **Season 1 Hackathon Start:** April 1st, 2024
-- **Season 1 Submission Deadline:** April 24th, 2024 at 23:59 AoE (Anywhere on Earth).
-- **Judging and Prizes:** April 26th, 2024.
+- **Season 1 Hackathon Start:** April 15th, 2024
+- **Season 1 Submission Deadline:** May 24th, 2024 at 23:59 AoE (Anywhere on Earth).
+- **Judging and Prizes:** May 29th, 2024.
 
 ### Join the Hackathon
 To participate, [register your team here](https://universityimpact.org/hackathon/register). Find more details about the challenges and resources on our [hackathon page](https://universityimpact.org/hackathon).
