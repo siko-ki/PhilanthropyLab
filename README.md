@@ -51,6 +51,12 @@ We've identified several key areas where technology can make a significant impac
 For each challenge, we provide a detailed brief, including the problem statement, resources, and potential ideas for solutions on our [challenges page](https://github.com/users/siko-ki/projects/1).
 <br></br>
 
+## Prizes
+We are offering four prizes of $400 each for the most successful projects submitted!
+Here's how each project with be judged:
+
+1. Innovation:
+   - We're looking for creativity here while creating a product that address the social challenge listed. How does your project contribute to the growing
 ## ❓FAQ
 
 <details>
