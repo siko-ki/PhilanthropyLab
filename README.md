@@ -15,7 +15,7 @@
 
 ## 🎉 Welcome to the University Impact Hackathon! 
 
-[University Impact](https://universityimpact.org) is dedicated to enhancing philanthropy and impact investing. At UI, one of our main missions is to make charitable giving easier. We work with financial advisors to empower donors, which in turn provides successful nonprofit organizations with the resources they need to continue creating change.  We're launching this hackathon to bring together bright minds to solve pressing social and environmental problems through technology and innovation.
+[University Impact](https://universityimpact.org) is dedicated to enhancing philanthropy and impact investing. At UI, one of our main missions is making charitable giving easier. We work with financial advisors to empower donors, which in turn provides successful nonprofit organizations with the resources they need to continue creating change.  We're launching this hackathon to bring together bright minds to solve pressing social and environmental problems through technology and innovation.
 <br></br>
 
 ## 📃 Table of content
@@ -32,7 +32,7 @@ The University Impact Hackathon is a virtual event designed to foster innovation
 
 ## 🎯 Overall Challenges
 
-We've identified several key areas where technology can make a significant social impact that we would like to explore during this hackathon.
+We've identified several key areas where technology can make significant social impact that we would like to explore.
 
 1. **Charity Evaluation and Impact Measurement:** Develop tools to measure and evaluate the effectiveness of charities.
 2. **Nonprofit Fundraising Solutions:** Create innovative solutions to increase fundraising capabilities for nonprofits.
