@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://universityimpact.org/hackathon#dates"><img src="https://img.shields.io/badge/Event-2024-%3498db?style=flat-square"></a>
-  <a href="[https://discord.universityimpact.org](https://discord.gg/8U8emcgk)"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
+  <a href="[https://discord.gg/8U8emcgk]"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://universityimpact.org/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
 <br></br> 
 </p>
