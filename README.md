@@ -15,7 +15,7 @@
 
 ## 🎉 Welcome to the University Impact Hackathon! 
 
-[University Impact](https://universityimpact.org) is dedicated to enhancing philanthropy and impact investing. At UI, one of our main missions is to make charitable giving easier. We aim to empower donors and nonprofit organizations alike to increase social good.  We're launching this hackathon to bring together bright minds to solve pressing social and environmental problems through technology and innovation.
+[University Impact](https://universityimpact.org) is dedicated to enhancing philanthropy and impact investing. At UI, one of our main missions is to make charitable giving easier. We work with financial advisors to empower donors, which in turn provides successful nonprofit organizations with the resources they need to continue creating change.  We're launching this hackathon to bring together bright minds to solve pressing social and environmental problems through technology and innovation.
 <br></br>
 
 ## 📃 Table of content
@@ -28,7 +28,19 @@
 
 ## 🚀 Hackathon Overview
 
-The University Impact Hackathon is a virtual event designed to foster innovation and collaboration. Participants will work in teams to develop solutions that address real-world challenges in the nonprofit sector, such as improving public transportation, enhancing charity evaluation methods, and increasing fundraising effectiveness.
+The University Impact Hackathon is a virtual event designed to foster innovation and collaboration. Participants will work in teams to develop solutions that address real-world challenges in the nonprofit sector, such as improving public transportation, enhancing charity evaluation methods, and increasing fundraising effectiveness. This is an ongoing Hackathon with continuous seasons. Judging will take place after submission deadlines for each season, and prizes will be awarded. Each season will have its own specific bounties, but each within-season bounty will also contribute to our four overall goals (detailed below). 
+
+## 🎯 Overall Challenges
+
+We've identified several key areas where technology can make a significant social impact that we would like to explore during this hackathon.
+
+1. **Charity Evaluation and Impact Measurement:** Develop tools to measure and evaluate the effectiveness of charities.
+2. **Nonprofit Fundraising Solutions:** Create innovative solutions to increase fundraising capabilities for nonprofits.
+3. **Donor Engagement and Transparency:** Build platforms to show donors the direct impact of their contributions.
+4. **Support for Public Charities:** Enhance awareness and support for charities making a significant social impact.
+
+For each season bounty, we provide a detailed brief, including the problem statement, resources, and potential ideas for solutions on our [challenges page](https://github.com/users/siko-ki/projects/1).
+<br></br>
 
 ### Important Dates
 - **Season 1 Hackathon Start:** April 10th, 2024
@@ -39,21 +51,9 @@ The University Impact Hackathon is a virtual event designed to foster innovation
 To participate, [register your team here](https://universityimpact.org/hackathon/register). Find more details about the challenges and resources on our [hackathon page](https://universityimpact.org/hackathon).
 <br></br>
 
-## 🎯 Challenges
-
-We've identified several key areas where technology can make a significant impact. Choose a challenge that aligns with your interests and skills:
-
-1. **Charity Evaluation and Impact Measurement:** Develop tools to measure and evaluate the effectiveness of charities.
-2. **Nonprofit Fundraising Solutions:** Create innovative solutions to increase fundraising capabilities for nonprofits.
-3. **Donor Engagement and Transparency:** Build platforms to show donors the direct impact of their contributions.
-4. **Support for Public Charities:** Enhance awareness and support for charities making a significant social impact.
-
-For each challenge, we provide a detailed brief, including the problem statement, resources, and potential ideas for solutions on our [challenges page](https://github.com/users/siko-ki/projects/1).
-<br></br>
-
 ## Prizes
 For season 1, we are offering four prizes of $400 each for the most successful projects submitted. 
-See each challenge for individual judging guidelines. 
+See season bounties for individual judging guidelines. 
 
 ## ❓FAQ
 
