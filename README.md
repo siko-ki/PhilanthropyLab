@@ -31,9 +31,9 @@
 The University Impact Hackathon is a virtual event designed to foster innovation and collaboration. Participants will work in teams to develop solutions that address real-world challenges in the nonprofit sector, such as improving public transportation, enhancing charity evaluation methods, and increasing fundraising effectiveness.
 
 ### Important Dates
-- **Season 1 Hackathon Start:** April 15th, 2024
-- **Season 1 Submission Deadline:** May 24th, 2024 at 23:59 AoE (Anywhere on Earth).
-- **Judging and Prizes:** May 29th, 2024.
+- **Season 1 Hackathon Start:** April 10th, 2024
+- **Season 1 Submission Deadline:** May 10th, 2024 at 23:59 AoE (Anywhere on Earth).
+- **Judging and Prizes:** May 15th, 2024. Winners will be announced at the weekly BYU AI club meeting. 
 
 ### Join the Hackathon
 To participate, [register your team here](https://universityimpact.org/hackathon/register). Find more details about the challenges and resources on our [hackathon page](https://universityimpact.org/hackathon).
@@ -52,8 +52,8 @@ For each challenge, we provide a detailed brief, including the problem statement
 <br></br>
 
 ## Prizes
-We are offering four prizes of $400 each for the most successful projects submitted!
-See each challenge for judging guidelines. 
+For season 1, we are offering four prizes of $400 each for the most successful projects submitted. 
+See each challenge for individual judging guidelines. 
 
 ## ❓FAQ
 
@@ -87,7 +87,8 @@ Submissions will be judged based on innovation, impact potential, technical impl
 
 ## 🏆 Leaderboard
 
-Winners will be announced after the judging period.
+Winners will be announced after the judging period. Winners from each season will be posted under (projects- past winners- how do i link this?). After each season, bounties will be updated and additional prizes will be up for grabs. If no project succeeds under a particular bounty, the challenge will carry over to the next season.  
+
 <br>
 
 ## ✅ Support
