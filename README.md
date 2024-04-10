@@ -53,10 +53,8 @@ For each challenge, we provide a detailed brief, including the problem statement
 
 ## Prizes
 We are offering four prizes of $400 each for the most successful projects submitted!
-Here's how each project with be judged:
+See each challenge for judging guidelines. 
 
-1. Innovation:
-   - We're looking for creativity here while creating a product that address the social challenge listed. How does your project contribute to the growing
 ## ❓FAQ
 
 <details>
