@@ -49,9 +49,8 @@ However, for each season bounty, we provide a detailed brief, including the prob
 ### Participate in the Hackathon
 To join the hackathon, please start by creating a branch from the designated hackathon issue in our [project repository](https://github.com/users/siko-ki/projects/1).
 
-## Prizes
-For season 1, first place will win $400 and second place will win $250.  
-See season bounties for individual judging guidelines. 
+## Prizes 
+See season bounties for individual judging guidelines and prize amounts. 
 
 ## FAQ
 
