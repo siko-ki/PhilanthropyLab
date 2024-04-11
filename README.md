@@ -1,6 +1,6 @@
 <p align="center">
 <!-- University Impact logo -->
-  <img width=100% src="PhilanthropyLab/Logos-UICharitableAdvisors-White.png"></p>
+  <img width=100% src="./Logos-UICharitableAdvisors-White.png"></p>
 
 <p align="center">
   <a href="[https://github.com/users/siko-ki/projects/1]"> 🚀 Join the Hackathon </a>
@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://universityimpact.org/hackathon#dates"><img src="https://img.shields.io/badge/Event-2024-%3498db?style=flat-square"></a>
-  <a href="[https://discord.gg/8U8emcgk]"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
-  <a href="https://universityimpact.org/community"><img src="https://img.shields.io/badge/Community-Support-%23ffd208?style=flat-square"></a>
+  <a href="https://discord.gg/sSPc4vZc6X"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
 <br></br> 
 </p>
 
