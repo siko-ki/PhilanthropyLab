@@ -47,7 +47,7 @@ For each season bounty, we provide a detailed brief, including the problem state
 - **Judging and Prizes:** May 15th, 2024. Winners will be announced at the weekly BYU AI club meeting. 
 
 ### Participate in the Hackathon
-To join the hackathon, please start by creating a branch from the designated hackathon issue in our [project repository](https://github.com/users/siko-ki/projects/1/issues).
+To join the hackathon, please start by creating a branch from the designated hackathon issue in our [project repository](https://github.com/users/siko-ki/projects/1).
 
 ## Prizes
 For season 1, we are offering four prizes of $400 each for the most successful projects submitted, with additional prizes for second and third place.
