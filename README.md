@@ -29,16 +29,16 @@
 
 The University Impact Hackathon is a virtual event designed to foster innovation and collaboration. Participants will work in teams to develop solutions that address real-world challenges in the nonprofit sector, such as improving public transportation, enhancing charity evaluation methods, and increasing fundraising effectiveness. This is an ongoing Hackathon with continuous seasons. Judging will take place after submission deadlines for each season, and prizes will be awarded. Each season will have its own specific bounties, but each within-season bounty will also contribute to our four overall goals (detailed below). 
 
-## Overall Challenges
+## Overall Goals
 
-We've identified several key areas where technology can make significant social impact that we would like to explore.
+We've identified several key areas where technology can make significant social impact that we would like to explore throughout this project.
 
 1. **Charity Evaluation and Impact Measurement:** Develop tools to measure and evaluate the effectiveness of charities.
 2. **Nonprofit Fundraising Solutions:** Create innovative solutions to increase fundraising capabilities for nonprofits.
 3. **Donor Engagement and Transparency:** Build platforms to show donors the direct impact of their contributions.
 4. **Support for Public Charities:** Enhance awareness and support for charities making a significant social impact.
 
-For each season bounty, we provide a detailed brief, including the problem statement, resources, and potential ideas for solutions on our [challenges page](https://github.com/users/siko-ki/projects/1).
+However, for each season bounty, we provide a detailed brief, including the problem statement, resources, and potential ideas for solutions on our [challenges page](https://github.com/users/siko-ki/projects/1).
 <br></br>
 
 ### Important Dates
@@ -50,7 +50,7 @@ For each season bounty, we provide a detailed brief, including the problem state
 To join the hackathon, please start by creating a branch from the designated hackathon issue in our [project repository](https://github.com/users/siko-ki/projects/1).
 
 ## Prizes
-For season 1, we are offering four prizes of $400 each for the most successful projects submitted, with additional prizes for second and third place.
+For season 1, first place will win $400 and second place will win $250.  
 See season bounties for individual judging guidelines. 
 
 ## FAQ
@@ -90,4 +90,6 @@ Winners will be announced after the judging period. Winners from each season wil
 <br>
 
 ## ✅ Support
-- Email for private questions: jacoblundskog@uicharitable.org
+- Email for private questions:
+-   Reach out to Jacob at jacoblundskog@uicharitable.org
+-   or Hannah at hannahgartz@uicharitable.org
