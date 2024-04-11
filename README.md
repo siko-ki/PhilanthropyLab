@@ -1,6 +1,6 @@
 <p align="center">
 <!-- University Impact logo -->
-  <img width=100% src="https://yourimagelink.com/logo.png"></p>
+  <img width=100% src="PhilanthropyLab/Logos-UICharitableAdvisors-White.png"></p>
 
 <p align="center">
   <a href="[https://github.com/users/siko-ki/projects/1]"> 🚀 Join the Hackathon </a>
@@ -52,7 +52,7 @@ To participate, [register your team here](https://universityimpact.org/hackathon
 <br></br>
 
 ## Prizes
-For season 1, we are offering four prizes of $400 each for the most successful projects submitted. 
+For season 1, we are offering four prizes of $400 each for the most successful projects submitted, with additional prizes for second and third place.
 See season bounties for individual judging guidelines. 
 
 ## ❓FAQ
