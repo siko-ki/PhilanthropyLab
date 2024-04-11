@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://universityimpact.org/hackathon#dates"><img src="https://img.shields.io/badge/Event-2024-%3498db?style=flat-square"></a>
+  <!-- <a href="https://universityimpact.org/hackathon#dates"><img src="https://img.shields.io/badge/Event-2024-%3498db?style=flat-square"></a> -->
   <a href="https://discord.gg/sSPc4vZc6X"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
 <br></br> 
 </p>
@@ -46,9 +46,8 @@ For each season bounty, we provide a detailed brief, including the problem state
 - **Season 1 Submission Deadline:** May 10th, 2024 at 23:59 AoE (Anywhere on Earth).
 - **Judging and Prizes:** May 15th, 2024. Winners will be announced at the weekly BYU AI club meeting. 
 
-### Join the Hackathon
-To participate, [register your team here](https://universityimpact.org/hackathon/register). Find more details about the challenges and resources on our [hackathon page](https://universityimpact.org/hackathon).
-<br></br>
+### Participate in the Hackathon
+To join the hackathon, please start by creating a branch from the designated hackathon issue in our [project repository](https://github.com/users/siko-ki/projects/1/issues).
 
 ## Prizes
 For season 1, we are offering four prizes of $400 each for the most successful projects submitted, with additional prizes for second and third place.
